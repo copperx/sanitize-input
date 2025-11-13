@@ -1,0 +1,7 @@
+Hello!
+Bye!
+Bye!
+HAHAA!!<script>alert('I'm a hacker!!!');</script>
+<script>alert("I'm a hacker!");</script>
+<script>alert("I'm a hacker!");</script>
+<script>alert("I'm a hacker!");</script>
